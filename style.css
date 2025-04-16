@@ -220,7 +220,7 @@
     font-weight: bold;
   }
   
-  button {
+ .button {
     background-color: #b85c74;
     color: white;
     border: none;
